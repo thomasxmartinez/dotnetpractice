@@ -1,0 +1,10 @@
+/Users/tommytnez/Desktop/powerfivebackend/bin/Debug/netcoreapp2.0/powerfivebackend.deps.json
+/Users/tommytnez/Desktop/powerfivebackend/bin/Debug/netcoreapp2.0/powerfivebackend.runtimeconfig.json
+/Users/tommytnez/Desktop/powerfivebackend/bin/Debug/netcoreapp2.0/powerfivebackend.runtimeconfig.dev.json
+/Users/tommytnez/Desktop/powerfivebackend/bin/Debug/netcoreapp2.0/powerfivebackend.dll
+/Users/tommytnez/Desktop/powerfivebackend/bin/Debug/netcoreapp2.0/powerfivebackend.pdb
+/Users/tommytnez/Desktop/powerfivebackend/obj/Debug/netcoreapp2.0/powerfivebackend.csproj.CoreCompileInputs.cache
+/Users/tommytnez/Desktop/powerfivebackend/obj/Debug/netcoreapp2.0/powerfivebackend.AssemblyInfoInputs.cache
+/Users/tommytnez/Desktop/powerfivebackend/obj/Debug/netcoreapp2.0/powerfivebackend.AssemblyInfo.cs
+/Users/tommytnez/Desktop/powerfivebackend/obj/Debug/netcoreapp2.0/powerfivebackend.dll
+/Users/tommytnez/Desktop/powerfivebackend/obj/Debug/netcoreapp2.0/powerfivebackend.pdb
